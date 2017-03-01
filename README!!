@@ -1,0 +1,12 @@
+####################################################################################################################
+#Student id :2013400057                                                                                            #          
+#Name : A. Emirhan Karagül                                                                                         #
+#Cmpe 230 first project readme                                                                                     #
+#                                                                                                                  #
+####################################################################################################################
+	This program takes a file named "input.mat" as input and translates it toa file named "translated.c"
+Please dont remove the classes and matrixstr.c from the folder as the program takes matrixstr olso as an input and
+to run the program just change your source directory to classes and type "java Main" in the console;
+
+I am including the java files in another folder as well. The files in classes folder are made by makefile.
+
